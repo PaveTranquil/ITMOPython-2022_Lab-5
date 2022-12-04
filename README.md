@@ -19,7 +19,7 @@
 | 3 | cbr.ru |
 | 4 | newsapi.org |
 | 5 | 5ka.ru |
-| 6 | steamcommunity.com|
+| **6** | **steamcommunity.com** |
 | 7 | kinopoisk.dev |
 | 8 | pochta.ru |
 | 9 | rickandmortyapi.com |
